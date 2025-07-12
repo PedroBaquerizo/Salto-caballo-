@@ -1,0 +1,2 @@
+# Salto-caballo-
+tablero
